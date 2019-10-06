@@ -1,0 +1,19 @@
+﻿  viewer.cpp
+  videoAndText.cpp
+  Video.cpp
+  Utilities.cpp
+  Text.cpp
+  Status.cpp
+  Player.cpp
+  Member.cpp
+  main.cpp
+  imageAndText.cpp
+  Image.cpp
+  FanPage.cpp
+  Facebook.cpp
+  Entity.cpp
+  Date.cpp
+  Board.cpp
+  Generating Code...
+  Facebook.vcxproj -> C:\Users\dorta\Desktop\Facebook\Debug\Facebook.exe
+  Facebook.vcxproj -> C:\Users\dorta\Desktop\Facebook\Debug\Facebook.pdb (Full PDB)
